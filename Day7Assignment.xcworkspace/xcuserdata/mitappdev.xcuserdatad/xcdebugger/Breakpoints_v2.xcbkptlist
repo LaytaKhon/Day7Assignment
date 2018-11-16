@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day7Assignment/DetailsViewController.swift"
+            timestampString = "564070471.469672"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day7Assignment.DetailsViewController.ingrediant.getter : weak Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Day7Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitappdev/Desktop/iOS_Course/Day7Assignment/Day7Assignment/DetailsViewController.swift"
+                  timestampString = "564041991.0523421"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day7Assignment.DetailsViewController.ingrediant.setter : weak Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Day7Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitappdev/Desktop/iOS_Course/Day7Assignment/Day7Assignment/DetailsViewController.swift"
+                  timestampString = "564041991.054355"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day7Assignment.DetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Day7Assignment.DetailsViewController"
+                  moduleName = "Day7Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitappdev/Desktop/iOS_Course/Day7Assignment/Day7Assignment/DetailsViewController.swift"
+                  timestampString = "564041991.056196"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "494">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day7Assignment.DetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Day7Assignment.DetailsViewController&gt;"
+                  moduleName = "Day7Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitappdev/Desktop/iOS_Course/Day7Assignment/Day7Assignment/DetailsViewController.swift"
+                  timestampString = "564041991.05803"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "459">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day7Assignment/DetailsViewController.swift"
+            timestampString = "564070471.469762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day7Assignment.DetailsViewController.desc.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Day7Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitappdev/Desktop/iOS_Course/Day7Assignment/Day7Assignment/DetailsViewController.swift"
+                  timestampString = "563824732.537894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day7Assignment.DetailsViewController.desc.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Day7Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitappdev/Desktop/iOS_Course/Day7Assignment/Day7Assignment/DetailsViewController.swift"
+                  timestampString = "563824732.540625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day7Assignment.DetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Day7Assignment.DetailsViewController"
+                  moduleName = "Day7Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitappdev/Desktop/iOS_Course/Day7Assignment/Day7Assignment/DetailsViewController.swift"
+                  timestampString = "563824732.543079"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "389">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day7Assignment.DetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Day7Assignment.DetailsViewController&gt;"
+                  moduleName = "Day7Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitappdev/Desktop/iOS_Course/Day7Assignment/Day7Assignment/DetailsViewController.swift"
+                  timestampString = "563824732.545055"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "357">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day7Assignment/DetailsViewController.swift"
+            timestampString = "564070471.4698271"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "cellRegister()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
